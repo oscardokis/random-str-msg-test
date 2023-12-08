@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-test",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oscar Gonzalez <oscar-gonzalezd1@hotmail.com",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-test": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
